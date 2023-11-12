@@ -1,0 +1,78 @@
+{
+  "users": [
+    {
+      "id" : "user1",
+      "password" : "MTIzNA==",
+      "roles" : ["USER"],
+      "token" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMSIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc25hbWUiOiJhbGFhIiwibGFzdHNuYW1lIjoia2Fob3VsaSIsImVtYWlsIjoiYWxhYUBnbWFpbC5jb20iLCJyb2xlcyI6WyJVU0VSIl19.j-Pz7BQ1kn-7iCbMzLLbCql2kiZ52X2BA_aV0VNmDLk"
+    },
+    {
+      "id" : "user2",
+      "password" : "MTIzNA==",
+      "roles" : ["USER"],
+      "token" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMiIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc25hbWUiOiJhbGFhIiwibGFzdHNuYW1lIjoia2Fob3VsaSIsImVtYWlsIjoiYWxhYUBnbWFpbC5jb20iLCJyb2xlcyI6WyJVU0VSIl19.r4QiVUf1rw7mg0BrolT1QbdI8B5yzTQ_eyaCMHK_uEA"
+    },
+    {
+      "id" : "admin",
+      "password" : "MTIzNA==",
+      "roles" : ["USER","ADMIN"],
+      "token" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbiIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4ODgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc25hbWUiOiJhbGFhIiwibGFzdHNuYW1lIjoia2Fob3VsaSIsImVtYWlsIjoiYWxhYUBnbWFpbC5jb20iLCJyb2xlcyI6WyJBRE1JTiIsIlVTRVIiXX0.8ySGR8iWGmopWNtoYoCHCSuIlB6vrvxCGu0eK3QVCsI"
+    }
+  ],
+  "products": [
+    {
+      "id": 2,
+      "name": "printer",
+      "price": 3600,
+      "checked": true
+    },
+    {
+      "id": 3,
+      "name": "smartphone",
+      "price": 4800,
+      "checked": true
+    },
+    {
+      "name": "smart g67",
+      "price": "300",
+      "checked": false,
+      "id": 5
+    },
+    {
+      "name": "bike",
+      "price": "150",
+      "checked": true,
+      "id": 6
+    },
+    {
+      "name": "bb",
+      "price": "755",
+      "checked": true,
+      "id": 8
+    },
+    {
+      "name": "cc",
+      "price": "890",
+      "checked": false,
+      "id": 9
+    },
+    {
+      "name": "tyty",
+      "price": "200",
+      "checked": false,
+      "id": 11
+    },
+    {
+      "name": "aabb",
+      "price": "7890",
+      "checked": false,
+      "id": 12
+    },
+    {
+      "name": "ffffffffff",
+      "price": "1222",
+      "checked": true,
+      "id": 13
+    }
+  ]
+}
